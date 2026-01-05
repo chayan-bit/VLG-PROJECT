@@ -45,10 +45,6 @@ This project aims to develop a model to detect anomalous events in surveillance 
 - Learned to handle 5D tensors `(B, T, C, H, W)` in a deep-learning pipeline.
 - Bridged computer vision (CNNs) and sequence modeling (RNNs) for surveillance anomaly detection.
 
----
 
-Files in this repository: `inference.py`, `training.py`.
-
-If you'd like, I can add example model code, training scripts, or a small notebook demonstrating the ConvLSTM autoencoder next.
 
 
